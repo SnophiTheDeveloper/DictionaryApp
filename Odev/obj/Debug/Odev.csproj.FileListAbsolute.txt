@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\dell\source\repos\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\dell\source\repos\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\dell\source\repos\Odev\Odev\obj\Debug\Odev.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Odev\Odev\obj\Debug\Odev.Form1.resources
+C:\Users\dell\source\repos\Odev\Odev\obj\Debug\Odev.Form2.resources
+C:\Users\dell\source\repos\Odev\Odev\obj\Debug\Odev.Properties.Resources.resources
+C:\Users\dell\source\repos\Odev\Odev\obj\Debug\Odev.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Odev\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\dell\source\repos\Odev\Odev\obj\Debug\Odev.pdb
